@@ -121,5 +121,3 @@ int main(void)
 ---
 
 > 🛠 Project developed as part of the 42 Network to master file I/O and memory handling in C.
-
-```
